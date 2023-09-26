@@ -8,7 +8,8 @@ This represents a prototype application designed to recognize cracks in glass an
 
 This prototype is implemented using C#.NET, built on WinForms, and developed in Visual Studio 2022. You can clone the repository onto your local computer and start the project using Visual Studio.
 
-![Capture1](https://github.com/faxirabd/ProtoTypeCurvature/assets/115953037/8fafdc8b-21ba-48a3-a1fa-e4de9edd3fcb)
+
+![Capture1](https://github.com/faxirabd/ProtoTypeCracksCurvature/assets/115953037/0f41ec38-0b2a-4a1b-beb8-aa2eee4221bc)
 
 
-![Capture2](https://github.com/faxirabd/ProtoTypeCurvature/assets/115953037/9b9b5a85-9259-4af9-8c42-df23f1d2ae5e)
+![Capture2](https://github.com/faxirabd/ProtoTypeCracksCurvature/assets/115953037/af7e0a44-8553-4d7c-beed-0489bb741ae7)
